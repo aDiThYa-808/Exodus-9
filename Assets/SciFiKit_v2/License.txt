@@ -1,0 +1,14 @@
+Sci-Fi Kit
+
+Version: 1.0
+Last Update: 2023-02-20
+Author: GameDev.lu
+Twitter: https://twitter.com/GameDevLu
+
+---------
+
+License: CC0 1.0 Universal
+
+Read the license text here:
+https://creativecommons.org/publicdomain/zero/1.0/
+
